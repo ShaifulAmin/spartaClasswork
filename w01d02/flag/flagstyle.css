@@ -1,0 +1,20 @@
+.div{
+	width: 300px;
+	height: 210px;
+	border: 1px;
+	background-color: blue;
+	float: left;
+
+	display: inline-block;
+}
+.div2{
+	width: 350px;
+	height: 30px;
+	border: 1px;
+	background-color: red;
+}
+.div3{
+	width: 350px;
+	height: 30px;
+	border: 1px;
+}
