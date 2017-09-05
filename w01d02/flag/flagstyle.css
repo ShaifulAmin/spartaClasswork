@@ -1,6 +1,7 @@
-p {
+.div4 {
 	color: #ffffff;
 	font-size: 40px;
+	padding: 15px 15px 15px 15px;
 }
 
 .div{
@@ -9,9 +10,6 @@ p {
 	border: 1px;
 	background-color: #3D3272;
 	float: left;
-	padding: 30px;
-
-	
 }
 .div2{
 	width: 100%;
