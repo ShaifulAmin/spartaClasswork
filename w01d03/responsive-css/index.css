@@ -1,0 +1,50 @@
+body{
+	width: 100vw;
+	height: 100vh;
+}
+
+div.left {
+	background-color: black;
+	height: 60%; 
+	width:  33%;
+	float: left; 
+}
+
+div.middle {
+	background-color: yellow;
+	height: 60%; 
+	width: 33%;
+	float: left;
+
+
+}
+
+div.right {
+	background-color: red;
+	height: 33%; 
+	width: 60%;
+	float: left;
+	
+}
+@media only screen and (max-width: 600px) {
+	div.left {
+	background-color: black;
+	height: 33%; 
+	width:  60%;
+	float: left;
+}
+
+div.middle {
+	background-color: yellow;
+	height: 33%; 
+	width: 60%;
+	float: left;
+
+}
+
+div.right {
+	background-color: red;
+	height: 33%; 
+	width: 60%;
+	float: left;
+}
